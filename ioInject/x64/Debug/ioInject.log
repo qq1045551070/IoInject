@@ -1,0 +1,11 @@
+﻿  Building 'ioInject' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  inject.cpp
+  main.cpp
+  rw.cpp
+  正在生成代码...
+  ioInject.vcxproj -> G:\驱动开发代码\IoComm\x64\Debug\ioInject.sys
+  Done Adding Additional Store
+  Successfully signed: G:\\IoComm\x64\Debug\ioInject.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
